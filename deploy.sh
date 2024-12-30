@@ -1,5 +1,9 @@
 Hello I am in master
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  I am testing stash command...
+>>>>>>> 3072de0 (deployement)
 =======
   I am testing stash command...
 >>>>>>> 3072de0 (deployement)
