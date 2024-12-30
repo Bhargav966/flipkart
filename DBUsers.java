@@ -1,2 +1,2 @@
-Hi Hello Guys
+Hello Guys
 Git commands are very important
